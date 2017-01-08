@@ -5,7 +5,8 @@ layout: default
 <div class="page-container">
     {% if page.img_abs %}
     <img class="featured-img" src={{ page.img_abs }} alt="{{page.title}}">
-    {% elif page.img %}
+    {% endif %}
+    {% if page.img %}
     <img class="featured-img" src={{ "/images-hq/" | prepend: site.baseurl | append : page.img}} alt="{{page.title}}">
     {% endif %}
     <div class="content">
