@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "Durham History"
+description: "African Americans have made their mark on Durham"
+img: https://svcdn.simpleviewinc.com/v3/cache/www_durham-nc_com/0C2E5B894507920AC28A711B98D2B260.jpg
 categories: [durham]
 ---
 
