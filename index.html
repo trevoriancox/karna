@@ -5,7 +5,7 @@ layout: default
 <div id="container" class="cols">
     {% for post in site.posts %}
     <div class="box" style="background-color:#{{post.color}}">
-       {% if page.img_abs %}
+       {% if post.img_abs %}
           <img class="feat-image" src="{{ post.img_abs }}" alt="{{post.title}}">
        {% endif %}
        {% if post.img %}
