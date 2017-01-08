@@ -5,7 +5,9 @@ layout: default
 <div id="container" class="cols">
     {% for post in site.posts %}
     <div class="box" style="background-color:#{{post.color}}">
-       {% if post.img %}
+       {% if page.img_abs %}
+          <img class="feat-image" src="{{ post.img_abs }}" alt="{{post.title}}">
+       {% elif post.img %}
           <img class="feat-image" src={{ "/images/" | prepend: site.baseurl | append: post.img }} alt="{{post.title}}">
        {% endif %}
           <div class="container">
