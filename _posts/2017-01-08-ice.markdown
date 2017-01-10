@@ -1,8 +1,9 @@
 ---
 layout: post
 author: Trevor
-title:  "Ice!!!"
-description: "State of Emergency declared - 2 inches of snow"
+title:  "State of Emergency declared - 2 inches of snow!"
+description: "As I sat indoors looking a the beautiful, sunny day outside, I thought it was funny that 5 cm of snow led to a State of Emergency in North Carolina. However, when I actually went outside to walk to the grocery store, every
+step was a hazard as the city had turned into a skating rink."
 img: lakewood-icy-road.jpeg
 color: 9b9390
 categories: [durham]
