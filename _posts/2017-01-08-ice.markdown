@@ -1,0 +1,28 @@
+---
+layout: post
+author: Trevor
+title:  "Ice!!!"
+description: "State of Emergency declared - 2 inches of snow"
+img: lakewood-icy-road.jpeg
+color: 9b9390
+categories: [durham]
+---
+
+As I sat indoors looking a the beautiful, sunny day outside, I thought it was funny that 5 cm of snow led to a 
+[State of Emergency](http://www.newsobserver.com/news/weather/article124918289.html)
+in North Carolina. However, when I actually went outside to walk to the grocery store, every
+step was a hazard as the city had turned into a skating rink.
+
+Fortunately, my host (a Northerner with Canadian parents) just happened to have
+a pair of Yaktrax she could lend me, and I was subsequently able to safely commute downtown
+on foot every day while the ice lasted.
+
+![Yaktrax]({{ site.baseurl }}/images-hq/yaktrax.jpeg)
+
+On my way to work on Monday, I passed abandoned vehicles in the street (and almost in the ditch),
+
+![Cars]({{ site.baseurl }}/images-hq/cars.jpeg)
+
+and had to watch out for powerlines...
+
+![Powerline]({{ site.baseurl }}/images-hq/powerline.jpeg)

@@ -9,7 +9,7 @@ layout: default
           <img class="feat-image" src="{{ post.img_abs }}" alt="{{post.title}}">
        {% endif %}
        {% if post.img %}
-          <img class="feat-image" src={{ "/images/" | prepend: site.baseurl | append: post.img }} alt="{{post.title}}">
+          <img class="feat-image" src={{ "/images-hq/" | prepend: site.baseurl | append: post.img }} alt="{{post.title}}">
        {% endif %}
           <div class="container">
             <h4>{{post.title}}</h4>
